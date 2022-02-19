@@ -1,7 +1,7 @@
 # Predicting-Spotify-Top-Tier-Songs
 NOTE: Visuals can be used to show
 
-Introduction:
+##Introduction:
 - We are using data set provided from Kaggle to analyze Spotify songs with respect to their features and genres. This is analyzed through multiple steps as seen below.
 
 
@@ -28,8 +28,8 @@ Statistical tests to check if significant differences exist between different er
 
 **Significance level($α$)**: We will be using a significance level of 0.05.
 
-We chose to use rock music for our analysis because of its high frequency in our dataset, which gives us a large sample size allowing for the best distribution of data.
+We created a sample dataset of size 1000, to ensure it was large enough to be an accurate representation of the data while also remaining small enough that the scatterplot were not just cluttered.
 
-We will be looking at 1960, 1980 and 2000 era rock, 
+We created a sample dataset of size 1000, to ensure it was large enough to be an accurate representation of the data while also remaining small enough that the scatterplot were not just cluttered.
 
- `decades were gotten from the random decade program written above, future reruns of program might lead to different values, hence cell was converted to comment `
+Just as a safeguard we ran ANOVA between our sample dataset and the main dataframe to see if there were any significant differences in mean.
