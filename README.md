@@ -22,11 +22,11 @@ We start of by looking at the correlation between continuous variables, we began
 
 Statistical tests to check if significant differences exist between different eras of rock music.
 
-**Null Hypothesis ($H_0$)**: No significant difference in features exist between rock songs released in different eras.
+**Null Hypothesis: No significant difference in features exist between rock songs released in different eras.
 
-**Alternative Hypothesis ($H_A$)**: significant difference in features exist between rock songs released in different eras.
+**Alternative Hypothesis: significant difference in features exist between rock songs released in different eras.
 
-**Significance level($α$)**: We will be using a significance level of 0.05.
+**Significance level: We will be using a significance level of 0.05.
 
 We created a sample dataset of size 1000, to ensure it was large enough to be an accurate representation of the data while also remaining small enough that the scatterplot were not just cluttered.
 
