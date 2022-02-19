@@ -1,7 +1,7 @@
 # Predicting-Spotify-Top-Tier-Songs
 NOTE: Visuals can be used to show
 
-##Introduction:
+## Introduction:
 - We are using data set provided from Kaggle to analyze Spotify songs with respect to their features and genres. This is analyzed through multiple steps as seen below.
 
 
